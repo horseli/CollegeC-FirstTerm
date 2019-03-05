@@ -1,0 +1,9 @@
+﻿  源.cpp
+c:\users\asus\source\repos\c++大作业计算器\c++大作业计算器\源.cpp(48): warning C4101: “symbol”: 未引用的局部变量
+c:\users\asus\source\repos\c++大作业计算器\c++大作业计算器\源.cpp(321): warning C4172: 返回局部变量或临时变量的地址: h
+c:\users\asus\source\repos\c++大作业计算器\c++大作业计算器\源.cpp(91): warning C4172: 返回局部变量或临时变量的地址: head
+c:\users\asus\source\repos\c++大作业计算器\c++大作业计算器\源.cpp(314): warning C4172: 返回局部变量或临时变量的地址: result
+c:\users\asus\source\repos\c++大作业计算器\c++大作业计算器\源.cpp(366): warning C4172: 返回局部变量或临时变量的地址: x
+c:\users\asus\source\repos\c++大作业计算器\c++大作业计算器\源.cpp(224): warning C4172: 返回局部变量或临时变量的地址: result
+源.obj : error LNK2019: 无法解析的外部符号 "struct numb * __cdecl FindLast(struct numb *)" (?FindLast@@YAPAUnumb@@PAU1@@Z)，该符号在函数 "struct numb * __cdecl Add(struct numb *,struct numb *)" (?Add@@YAPAUnumb@@PAU1@0@Z) 中被引用
+C:\Users\asus\source\repos\C++大作业计算器\Debug\C++大作业计算器.exe : fatal error LNK1120: 1 个无法解析的外部命令

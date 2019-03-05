@@ -1,0 +1,7 @@
+﻿  源.cpp
+c:\users\asus\source\repos\project52求数字根\project52求数字根\源.cpp(19): error C2065: “p”: 未声明的标识符
+c:\users\asus\source\repos\project52求数字根\project52求数字根\源.cpp(20): error C2297: “%”: 非法，右操作数包含“double”类型
+c:\users\asus\source\repos\project52求数字根\project52求数字根\源.cpp(25): error C2065: “p”: 未声明的标识符
+c:\users\asus\source\repos\project52求数字根\project52求数字根\源.cpp(27): error C2065: “p”: 未声明的标识符
+c:\users\asus\source\repos\project52求数字根\project52求数字根\源.cpp(27): error C2541: “delete”: 不能删除不是指针的对象
+c:\users\asus\source\repos\project52求数字根\project52求数字根\源.cpp(28): error C2065: “p”: 未声明的标识符

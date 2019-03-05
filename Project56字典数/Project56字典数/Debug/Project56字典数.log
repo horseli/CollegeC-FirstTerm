@@ -1,0 +1,3 @@
+﻿  源.cpp
+c:\users\asus\source\repos\project56字典数\project56字典数\源.cpp(26): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+LINK : fatal error LNK1168: 无法打开 C:\Users\asus\source\repos\Project56字典数\Debug\Project56字典数.exe 进行写入

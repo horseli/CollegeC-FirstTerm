@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\asus\source\repos\project49找8\project49找8\源.cpp(10): error C2133: “b”: 未知的大小
+c:\users\asus\source\repos\project49找8\project49找8\源.cpp(19): error C2059: 语法错误:“/”
+c:\users\asus\source\repos\project49找8\project49找8\源.cpp(24): error C2109: 下标要求数组或指针类型

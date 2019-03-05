@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\asus\source\repos\project56字典nmb\project56字典nmb\源.cpp(18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\project56字典nmb\project56字典nmb\源.cpp(34): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\project56字典nmb\project56字典nmb\源.cpp(40): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Project56字典nmb.vcxproj -> C:\Users\asus\source\repos\Project56字典nmb\Debug\Project56字典nmb.exe
+  Project56字典nmb.vcxproj -> C:\Users\asus\source\repos\Project56字典nmb\Debug\Project56字典nmb.pdb (Partial PDB)

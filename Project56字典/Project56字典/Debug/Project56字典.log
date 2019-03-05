@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\asus\source\repos\project56字典\project56字典\源.cpp(13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\project56字典\project56字典\源.cpp(28): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\project56字典\project56字典\源.cpp(34): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Project56字典.vcxproj -> C:\Users\asus\source\repos\Project56字典\Debug\Project56字典.exe
+  Project56字典.vcxproj -> C:\Users\asus\source\repos\Project56字典\Debug\Project56字典.pdb (Partial PDB)

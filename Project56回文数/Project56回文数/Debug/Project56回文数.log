@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\asus\source\repos\project56回文数\project56回文数\源.cpp(8): warning C4101: “m”: 未引用的局部变量
+  Project56回文数.vcxproj -> C:\Users\asus\source\repos\Project56回文数\Debug\Project56回文数.exe
+  Project56回文数.vcxproj -> C:\Users\asus\source\repos\Project56回文数\Debug\Project56回文数.pdb (Partial PDB)

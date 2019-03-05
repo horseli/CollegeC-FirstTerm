@@ -1,0 +1,18 @@
+﻿  源.cpp
+c:\users\asus\source\repos\project102c++大作业计算器2\project102c++大作业计算器2\源.cpp(117): warning C4101: “symbol”: 未引用的局部变量
+c:\users\asus\source\repos\project102c++大作业计算器2\project102c++大作业计算器2\源.cpp(861): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\project102c++大作业计算器2\project102c++大作业计算器2\源.cpp(868): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\project102c++大作业计算器2\project102c++大作业计算器2\源.cpp(171): warning C4172: 返回局部变量或临时变量的地址: head
+c:\users\asus\source\repos\project102c++大作业计算器2\project102c++大作业计算器2\源.cpp(455): warning C4172: 返回局部变量或临时变量的地址: result
+c:\users\asus\source\repos\project102c++大作业计算器2\project102c++大作业计算器2\源.cpp(461): warning C4172: 返回局部变量或临时变量的地址: result
+c:\users\asus\source\repos\project102c++大作业计算器2\project102c++大作业计算器2\源.cpp(466): warning C4172: 返回局部变量或临时变量的地址: result
+c:\users\asus\source\repos\project102c++大作业计算器2\project102c++大作业计算器2\源.cpp(472): warning C4172: 返回局部变量或临时变量的地址: result
+c:\users\asus\source\repos\project102c++大作业计算器2\project102c++大作业计算器2\源.cpp(477): warning C4172: 返回局部变量或临时变量的地址: result
+c:\users\asus\source\repos\project102c++大作业计算器2\project102c++大作业计算器2\源.cpp(447): warning C4172: 返回局部变量或临时变量的地址: result
+c:\users\asus\source\repos\project102c++大作业计算器2\project102c++大作业计算器2\源.cpp(343): warning C4172: 返回局部变量或临时变量的地址: result
+c:\users\asus\source\repos\project102c++大作业计算器2\project102c++大作业计算器2\源.cpp(515): warning C4172: 返回局部变量或临时变量的地址: h
+c:\users\asus\source\repos\project102c++大作业计算器2\project102c++大作业计算器2\源.cpp(522): warning C4172: 返回局部变量或临时变量的地址: h
+c:\users\asus\source\repos\project102c++大作业计算器2\project102c++大作业计算器2\源.cpp(603): warning C4172: 返回局部变量或临时变量的地址: x
+c:\users\asus\source\repos\project102c++大作业计算器2\project102c++大作业计算器2\源.cpp(846): warning C4172: 返回局部变量或临时变量的地址: result
+  Project102C++大作业计算器2.vcxproj -> C:\Users\asus\source\repos\Project102C++大作业计算器2\Debug\Project102C++大作业计算器2.exe
+  Project102C++大作业计算器2.vcxproj -> C:\Users\asus\source\repos\Project102C++大作业计算器2\Debug\Project102C++大作业计算器2.pdb (Partial PDB)
